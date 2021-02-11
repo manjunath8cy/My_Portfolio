@@ -1,5 +1,5 @@
 # Projects_Academic
-Overview of list of projects carried out under my post graduation study.
+Overview of list of projects carried out under my post graduation study and personal interest.
 
 # Project 1: Customer Segmentation and Frequent Items Identification on Online Retail Dataset
 * Data cleaning and pre-processing was performed on the online retail dataset for doing further and meaningful analysis
