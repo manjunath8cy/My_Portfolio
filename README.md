@@ -1,7 +1,7 @@
 # Projects_Academic
 Overview of list of projects carried out under my post graduation study and personal interest.
 
-# Project 1: Customer Segmentation and Frequent Items Identification on Online Retail Dataset
+# [Project 1: Customer Segmentation and Frequent Items Identification on Online Retail Dataset](https://github.com/manjunath8cy/Data_Analytics_On_Retail_Dataset)
 * Data cleaning and pre-processing was performed on the online retail dataset for doing further and meaningful analysis
 * Analysed over 550K transactions from the dataset using python and jupyter
 * Visualized the data to understand the hidden trends and find useful information 
